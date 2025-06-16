@@ -125,7 +125,7 @@ ________________________________________________________________________________
 
 Developers: Vrishty Gothwal, Izram Sana, Kalyani Singh
 
-GitHub: Startiny95 (Vrishty G0thwal)
+GitHub: Startiny95 (Vrishty Gothwal)
 
 Email: gothwalvrishty@gmail.com
 
