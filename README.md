@@ -116,18 +116,18 @@ ________________________________________________________________________________
 
 🔐 Add login/authentication for secure dashboard access
 
-🧠 Improve model with advanced hyperparameter tuning
+🧠 Improve the model with advanced hyperparameter tuning
 
 _______________________________________________________________________________________________________
 
 
-📬 Contact:
+📬 Contact: gothwalvrishty@gmail.com 
 
-Developers: 
+Developers: Vrishty Gothwal, Izram Sana, Kalyani Singh
 
-GitHub: 
+GitHub: Startiny95 (Vrishty G0thwal)
 
-Email: 
+Email: gothwalvrishty@gmail.com
 
 
 
